@@ -34,7 +34,7 @@
   "scripts": {
     "start": "node server.js",
     "start:google": "node examples/google-auth-unleash.js",
-    "start:dev": "NODE_ENV=development supervisor --ignore ./node_modules/,website server-dev.js",
+    "start:dev": "NODE_ENV=development supervisor --ignore ./node_modules/,website ./dist/server-dev.js",
     "db-migrate": "db-migrate",
     "lint": "eslint .",
     "build:dev": "tsc",
