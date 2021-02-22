@@ -68,14 +68,14 @@
       "client_specification": {
         "title": "Client Specification"
       },
-      "configuring_unleash": {
-        "title": "Configuring Unleash"
-      },
       "database_backup": {
         "title": "Database Backup"
       },
       "database_schema": {
         "title": "Database Schema"
+      },
+      "deploy/configuring_unleash": {
+        "title": "Configuring Unleash"
       },
       "dev/version-4": {
         "title": "dev/version-4"
@@ -126,6 +126,7 @@
       "Help": "Help"
     },
     "categories": {
+      "Deploy": "Deploy",
       "User Documentation": "User Documentation",
       "Addons": "Addons",
       "Developer Guide": "Developer Guide",

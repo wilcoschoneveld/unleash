@@ -1,5 +1,6 @@
 {
   "documentation": {
+    "Deploy": ["getting_started"],
     "User Documentation": [
       "getting_started",
       "configuring_unleash",
